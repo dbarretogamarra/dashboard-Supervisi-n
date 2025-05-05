@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dashboard-Supervisi-n/static/css/main.1adc5d40.css",
-    "main.js": "/dashboard-Supervisi-n/static/js/main.0bc181b5.js",
+    "main.css": "/dashboard-Supervisi-n/static/css/main.96cda74b.css",
+    "main.js": "/dashboard-Supervisi-n/static/js/main.6f46300e.js",
     "index.html": "/dashboard-Supervisi-n/index.html",
-    "main.1adc5d40.css.map": "/dashboard-Supervisi-n/static/css/main.1adc5d40.css.map",
-    "main.0bc181b5.js.map": "/dashboard-Supervisi-n/static/js/main.0bc181b5.js.map"
+    "main.96cda74b.css.map": "/dashboard-Supervisi-n/static/css/main.96cda74b.css.map",
+    "main.6f46300e.js.map": "/dashboard-Supervisi-n/static/js/main.6f46300e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1adc5d40.css",
-    "static/js/main.0bc181b5.js"
+    "static/css/main.96cda74b.css",
+    "static/js/main.6f46300e.js"
   ]
 }
