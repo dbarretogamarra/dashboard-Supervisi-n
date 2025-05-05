@@ -1,0 +1,80 @@
+Año	Mes	Tipo	ESFS	% Indicador	Resultado	Situación de la Línea	Fecha de Activación Clausula 13	Año de Activación Clausula 13	Exposición Activación Clausula 13S/ M	Fecha Inicio Visita	Fecha Fin Visita	Expedientes	Estado Visita	Informe Final	Fecha Final	Días de visita	Dias hasta el informe final
+2024	Diciembre	Bancos	B. Continental	36.6%	Crítico	Vigente				06/11/2024	13/11/2024	211	Realizado	Informe Final N° 24-2024-FMV/DRCS	17/12/2024	7	34
+2024	Diciembre	Bancos	B. De Comercio	86.9%	Bueno	Vigente				20/08/2024	29/08/2024	209	Realizado	Informe Final N° 22-2024-FMV/DRCS	24/10/2024	9	56
+2024	Diciembre	Bancos	B. De Crédito del Perú	100.0%	Bueno	Vigente				14/05/2024	27/05/2024	448	Realizado	Informe Final N° 15-2024-FMV/GR	11/07/2024	13	45
+2024	Diciembre	Bancos	B. Interamericano de Finanzas	100.0%	Bueno	Vigente							No Programado				
+2024	Diciembre	Bancos	B.Scotiabank Perú	100.0%	Bueno	Vigente							No Programado				
+2024	Diciembre	Bancos	B. GNB	100.0%	Bueno	Vigente							No Programado				
+2024	Diciembre	Bancos	B. Falabella Perú	100.0%	Bueno	Suspendida							No Programado				
+2024	Diciembre	Bancos	B. Pichincha	100.0%	Bueno	Vigente				27/02/2024	06/03/2024	381	Realizado	Informe Final N° 07-2024-FMV/GR	09/04/2024	8	34
+2024	Diciembre	Bancos	Mibanco	65.0%	Crítico	Vigente				25/11/2024	27/11/2024	7	Realizado	Informe Final N° 25-2024-FMV/DRCS	17/12/2024	2	20
+2024	Diciembre	Bancos	Interbank	59.4%	Crítico	Vigente				10/06/2024	27/06/2024	351	Realizado	Informe Final N° 17-2024-FMV/DRCS	27/08/2024	17	61
+2024	Diciembre	Bancos	Compartamos Banco	Sin Cartera	N.A	Vigente							No Programado				
+2024	Diciembre	CMAC	CMAC Arequipa	100.0%	Bueno	Vigente							No Programado				
+2024	Diciembre	CMAC	CMAC Cusco	100.0%	Bueno	Vigente							No Programado				
+2024	Diciembre	CMAC	CMAC Ica	86.9%	Bueno	Vigente				12/09/2024	23/09/2024	217	Realizado	Informe Final N° 19-2024-FMV/DRCS	13/11/2024	11	51
+2024	Diciembre	CMAC	CMAC Piura	100.0%	Bueno	Vigente				08/07/2024	11/07/2024	23	Realizado	Informe Final N° 18-2024-FMV/DRCS	24/09/2024	3	75
+2024	Diciembre	CMAC	CMAC Trujillo	93.4%	Bueno	Vigente							No Programado				
+2024	Diciembre	CMAC	CMAC Maynas	78.1%	Bueno	Vigente				11/03/2024	15/03/2024	72	Realizado	Informe Final N° 10-2024-FMV/GR	29/05/2024	4	75
+2024	Diciembre	CMAC	CMAC Huancayo	71.6%	Bueno	Vigente				25/03/2024	08/04/2024	415	Realizado	Informe Final N° 08-2024-FMV/GR	24/05/2024	14	46
+2024	Diciembre	CMCP 	CMCP Lima (*)	100.0%	Bueno	Suspendida							No Programado				
+2024	Diciembre	CMAC	CMAC Sullana	Sin Cartera	N.A	Activación de Clausula 13 (Transferida CMAC Huancayo)	12/3/20	2020	137,994				No Programado				
+2024	Diciembre	CMAC	CMAC Tacna (*)	Sin Cartera	N.A	Activación de Clausula 13	26/8/21	2021	492				No Programado				
+2024	Diciembre	CRAC	CRAC Los Andes (*)	Sin Cartera	N.A	Suspendida							No Programado				
+2024	Diciembre	CRAC	CRAC Raíz (*)	Sin Cartera	N.A	Activación de Clausula 13	13/1/23	2023	8,599				No Programado				
+2024	Diciembre	CRAC	CRAC Prymera (*)	Sin Cartera	N.A	Activación de Clausula 13	3/11/21	2021	14				No Programado				
+2024	Diciembre	CRAC	CRAC Señor de Luren y CMAC Paita	Sin Cartera	N.A	Activación de Clausula 13	19/6/15	2015	46,534				No Programado				
+2024	Diciembre	Empresa de Crédito	EC Vívela	100.0%	Bueno	Vigente (en proceso de Adecuación)				16/04/2024	25/04/2024	402	Realizado	Informe Final N° 09-2024-FMV/GR	27/05/2024	9	32
+2024	Diciembre	Financiera	Financiera Santander Consumer	93.4%	Bueno	Vigente							No Programado				
+2024	Diciembre	Financiera	Financiera Efectiva	86.9%	Bueno	Vigente				02/10/2024	11/10/2024	261	Realizado	Informe Final N° 23-2024-FMV/DRCS	10/12/2024	9	60
+2024	Diciembre	Financiera	Financiera Confianza	Sin Cartera	N.A	Vigente							No Programado				
+2024	Diciembre	Financiera	Financiera Credinka (*)	Sin Cartera	N.A	Activación de Clausula 13	30/7/24	2024	11,979				No Programado				
+2024	Diciembre	Financiera	 Financiera TFC	Sin Cartera	N.A	Activación de Clausula 13	12/12/19	2019	220,551				No Programado				
+2024	Diciembre	CAC	CAC La Rehabilitadora (*)	87.8%	Bueno	Suspendida							No Programado				
+2024	Diciembre	CAC	CAC San Martin de Porres	81.3%	Bueno	Suspendida							No Programado				
+2024	Diciembre	CAC	CAC AELU (*)	Sin Cartera	N.A	Activación de Clausula 13	19/8/21	2021	1,798				No Programado				
+2024	Diciembre	CAC	CAC Santa Maria Magdalena (*)	Sin Cartera	N.A	Activación de Clausula 13	7/1/22	2022	146				No Programado				
+2024	Diciembre	CAC	CAC Quillacoop (*)	Sin Cartera	N.A	Activación de Clausula 13	9/6/20	2020	463				No Programado				
+2024	Diciembre	CAC	CAC Pacifico	Sin Cartera	N.A	Activación de Clausula 13	26/7/23	2023	32,805	22/07/2024	22/10/2024	531	Realizado	DUE DILLIGENCE	NA	NA	NA
+2024	Diciembre	CAC	CAC San Francisco	Sin Cartera	N.A	Activación de Clausula 13	17/6/21	2021	1,264				No Programado				
+2024	Diciembre	CAC	CAC PrestaPerú	Sin Cartera	N.A	Activación de Clausula 13	28/9/18	2018	51,116				No Programado				
+2025	Marzo	Bancos	B. Continental	86.9%	Bueno	Vigente							No Programado				
+2025	Marzo	Bancos	B. De Comercio	100.0%	Bueno	Vigente				11/08/2025	22/08/2025	320	Pendiente				
+2025	Marzo	Bancos	B. De Crédito del Perú	100.0%	Bueno	Vigente							No Programado				
+2025	Marzo	Bancos	B. Interamericano de Finanzas	100.0%	Bueno	Vigente				10/09/2025	24/09/2025	430	Pendiente				
+2025	Marzo	Bancos	B.Scotiabank Perú	100.0%	Bueno	Vigente				07/04/2025	21/04/2025	335	En proceso				
+2025	Marzo	Bancos	B. GNB	100.0%	Bueno	Vigente				28/04/2025	09/05/2025	323	Pendiente				
+2025	Marzo	Bancos	B. Falabella Perú	100.0%	Bueno	Suspendida							No Programado				
+2025	Marzo	Bancos	B. Pichincha	65.0%	Crítico	Vigente				17/03/2025	28/03/2025	304	Realizado			11	
+2025	Marzo	Bancos	Mibanco	65.0%	Crítico	Vigente							No Programado				
+2025	Marzo	Bancos	Interbank	59.4%	Crítico	Vigente							No Programado				
+2025	Marzo	Bancos	Compartamos Banco	Sin Cartera	N.A	Vigente							No Programado				
+2025	Marzo	CMAC	CMAC Arequipa	100.0%	Bueno	Vigente							No Programado				
+2025	Marzo	CMAC	CMAC Cusco	100.0%	Bueno	Vigente							No Programado				
+2025	Marzo	CMAC	CMAC Ica	100.0%	Bueno	Vigente				16/06/2025	25/06/2025	187	Pendiente				
+2025	Marzo	CMAC	CMAC Piura	100.0%	Bueno	Vigente							No Programado				
+2025	Marzo	CMAC	CMAC Trujillo	93.4%	Bueno	Vigente				13/10/2025	20/10/2025	80	Pendiente				
+2025	Marzo	CMAC	CMAC Maynas	78.1%	Bueno	Vigente				19/05/2025	26/05/2025	128	Pendiente				
+2025	Marzo	CMAC	CMAC Huancayo	43.1%	Crítico	Vigente				19/02/2025	28/02/2025	417	Realizado			9	
+2025	Marzo	CMCP 	CMCP Lima (*)	100.0%	Bueno	Suspendida							No Programado				
+2025	Marzo	CMAC	CMAC Sullana	Sin Cartera	N.A	Activación de Clausula 13 (Transferida CMAC Huancayo)	12/3/20	2020	137,994				No Programado				
+2025	Marzo	CMAC	CMAC Tacna (*)	Sin Cartera	N.A	Activación de Clausula 13	26/8/21	2021	492				No Programado				
+2025	Marzo	CRAC	CRAC Los Andes (*)	Sin Cartera	N.A	Suspendida							No Programado				
+2025	Marzo	CRAC	CRAC Raíz (*)	Sin Cartera	N.A	Activación de Clausula 13	13/1/23	2023	8,599				No Programado				
+2025	Marzo	CRAC	CRAC Prymera (*)	Sin Cartera	N.A	Activación de Clausula 13	3/11/21	2021	14				No Programado				
+2025	Marzo	CRAC	CRAC Señor de Luren y CMAC Paita	Sin Cartera	N.A	Activación de Clausula 13	19/6/15	2015	46,534				No Programado				
+2025	Marzo	Empresa de Crédito	EC Vívela	100.0%	Bueno	Vigente (en proceso de Adecuación)				03/02/2025	14/02/2025	345	Realizado	Informe N°03-2025-FMV/DRCSC	30/03/2025	11	44
+2025	Marzo	Financiera	Financiera Santander Consumer	93.4%	Bueno	Vigente				14/07/2025	18/07/2025	53	Pendiente				
+2025	Marzo	Financiera	Financiera Efectiva	93.4%	Bueno	Vigente							No Programado				
+2025	Marzo	Financiera	Financiera Confianza	Sin Cartera	N.A	Vigente							No Programado				
+2025	Marzo	Financiera	Financiera Credinka (*)	Sin Cartera	N.A	Activación de Clausula 13	30/7/24	2024	11,979				No Programado				
+2025	Marzo	Financiera	 Financiera TFC	Sin Cartera	N.A	Activación de Clausula 13	12/12/19	2019	220,551				No Programado				
+2025	Marzo	CAC	CAC La Rehabilitadora (*)	87.8%	Bueno	Suspendida				17/11/2025	20/11/2025	12	Pendiente				
+2025	Marzo	CAC	CAC San Martin de Porres	81.3%	Bueno	Suspendida							No Programado				
+2025	Marzo	CAC	CAC AELU (*)	Sin Cartera	N.A	Activación de Clausula 13	19/8/21	2021	1,798				No Programado				
+2025	Marzo	CAC	CAC Santa Maria Magdalena (*)	Sin Cartera	N.A	Activación de Clausula 13	7/1/22	2022	146				No Programado				
+2025	Marzo	CAC	CAC Quillacoop (*)	Sin Cartera	N.A	Activación de Clausula 13	9/6/20	2020	463				No Programado				
+2025	Marzo	CAC	CAC Pacifico	Sin Cartera	N.A	Activación de Clausula 13	26/7/23	2023	32,805				No Programado				
+2025	Marzo	CAC	CAC San Francisco	Sin Cartera	N.A	Activación de Clausula 13	17/6/21	2021	1,264				No Programado				
+2025	Marzo	CAC	CAC PrestaPerú	Sin Cartera	N.A	Activación de Clausula 13	28/9/18	2018	51,116				No Programado				
+			

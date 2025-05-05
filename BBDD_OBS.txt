@@ -1,0 +1,28 @@
+Año	OBS	ESFS	Observación	Fecha de implementación	Resultado
+2024	6	Financiera Efectiva	Documentación faltante del expedientes del crédito	12/05/2025	Bueno
+2024	4	Interbank	Conciliación de listados de asegurados (Desgravamen y Multiriesgo)	30/04/2025	Crítico
+2024	6	Interbank	Documentación faltante del expedientes del crédito	30/04/2025	Crítico
+2024	9	Interbank	Factores críticos en la evaluación del crédito	30/04/2025	Crítico
+2024	10	Interbank	Información pendiente de entrega	30/04/2025	Crítico
+2024	11	Interbank	Observaciones pendientes de la visita de revisión de cartera 2023	30/04/2025	Crítico
+2024	1	Mibanco	Actualización de tasaciones	30/06/2025	Crítico
+2024	4	Mibanco	Conciliación de listados de asegurados (Desgravamen y Multiriesgo)	30/06/2025	Crítico
+2024	6	Mibanco	Documentación faltante del expedientes del crédito	30/04/2025	Crítico
+2024	7	Mibanco	Estado de garantías	30/06/2025	Crítico
+2025	1	B. Pichincha	Actualización de tasaciones	23/04/2025	Crítico
+2025	2	B. Pichincha	Conciliación de bases de datos IFI – COFIDE	23/04/2025	Crítico
+2025	3	B. Pichincha	Conciliación de bases de reprogramados IFI – COFIDE	23/04/2025	Crítico
+2025	4	B. Pichincha	Conciliación de listados de asegurados (Desgravamen y Multiriesgo)	23/04/2025	Crítico
+2025	5	B. Pichincha	Conciliación de PBP MIVIVIENDA IFI - COFIDE	23/04/2025	Crítico
+2025	6	B. Pichincha	Documentación faltante del expedientes del crédito	23/04/2025	Crítico
+2025	7	B. Pichincha	Estado de garantías	23/04/2025	Crítico
+2025	9	B. Pichincha	Factores críticos en la evaluación del crédito	23/04/2025	Crítico
+2025	1	CMAC Huancayo	Actualización de tasaciones	31/07/2025	Crítico
+2025	2	CMAC Huancayo	Conciliación de bases de datos IFI – COFIDE	31/07/2025	Crítico
+2025	3	CMAC Huancayo	Conciliación de bases de reprogramados IFI – COFIDE	31/07/2025	Crítico
+2025	4	CMAC Huancayo	Conciliación de listados de asegurados (Desgravamen y Multiriesgo)	31/07/2025	Crítico
+2025	6	CMAC Huancayo	Documentación faltante del expedientes del crédito	31/07/2025	Crítico
+2025	7	CMAC Huancayo	Estado de garantías	31/07/2025	Crítico
+2025	8	CMAC Huancayo	Expedientes faltantes	31/07/2025	Crítico
+2025	9	CMAC Huancayo	Factores críticos en la evaluación del crédito	31/07/2025	Crítico
+2025	10	CMAC Huancayo	Información pendiente de entrega	31/07/2025	Crítico
